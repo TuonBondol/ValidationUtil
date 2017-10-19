@@ -19,7 +19,7 @@ Step 2
 
 ```
 dependencies {
-	        compile 'com.github.BondolTuon:ValidationUtil:1.0.1'
+	        compile 'com.github.TuonBondol:ValidationUtil:1.0.1'
 	}
 ```
 
