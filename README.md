@@ -19,7 +19,7 @@ Step 2
 
 ```
 dependencies {
-	        compile 'com.github.TuonBondol:ValidationUtil:1.0.1'
+	        compile 'com.github.TuonBondol:ValidationUtil:1.0.4'
 	}
 ```
 
@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
 ## Min SDK Version
 
 ```
-Support Min Sdk version >= 21
+Support Min Sdk version >= 16
 
 ```
 
